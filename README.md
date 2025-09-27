@@ -19,7 +19,8 @@ This is a Python game where players experience a college semester as a student. 
    - The game uses identity operators (`is`) on variables and nested `if` statements to determine multiple possible endings.
 
 ## How to Play
-1. Make sure Python 3 is installed.  
+1. Make sure Python 3 is installed.
 2. Run the program:
-   ```bash
-   python chrisbaring_assignment_3.py[chrisbaring_assignment_4.py](https://github.com/user-attachments/files/22570297/chrisbaring_assignment_4.py)
+
+```bash
+python chrisbaring_assignment_3.py
